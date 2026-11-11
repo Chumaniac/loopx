@@ -1,3 +1,5 @@
+**Fork maintained by Chumaniac.** [Upstream source](https://github.com/loopx-project/loopx) · [Latest upstream releases](https://github.com/loopx-project/loopx/releases) · [Compare this snapshot with upstream](https://github.com/loopx-project/loopx/compare/Chumaniac:main...main).
+
 <div align="center">
 
 <h1 align="center">LoopX</h1>
@@ -12,7 +14,7 @@
 
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE) [![Release](https://img.shields.io/github/v/release/huangruiteng/loopx?filter=v*&display_name=tag)](https://github.com/huangruiteng/loopx/releases/latest) [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/XmGgQyCFZd) [![TypeScript core](https://img.shields.io/badge/core-TypeScript-3178C6?logo=typescript&logoColor=white)](docs/architecture/rfcs/typescript-control-plane-migration-v0.md) [![Python](https://img.shields.io/badge/python-3.11%2B-blue.svg)](pyproject.toml) [![Local first](https://img.shields.io/badge/control--plane-local--first-brightgreen.svg)](docs/public-private-boundary.md) [![Loop Agents](https://img.shields.io/badge/status-loop%20agents%20active-brightgreen.svg)](docs/product/release-readiness.md)
 
-[Public website](https://huangruiteng.github.io/loopx/) · [Blog](https://huangruiteng.github.io/loopx/blog/) · [Docs](https://huangruiteng.github.io/loopx/docs/) · [Developer Book](https://huangruiteng.github.io/loopx/docs/book/en/) · [Try LoopX](#try-loopx) · [See real loops](#evidence) · [How it works](#why-loopx) · [简体中文](README.zh-CN.md)
+[Public website](https://loopx-project.github.io/loopx/) · [Blog](https://loopx-project.github.io/loopx/blog/) · [Docs](https://loopx-project.github.io/loopx/docs/) · [Developer Book](https://loopx-project.github.io/loopx/docs/book/en/) · [Try LoopX](#try-loopx) · [See real loops](#evidence) · [How it works](#why-loopx) · [简体中文](README.zh-CN.md)
 
 </div>
 
@@ -31,9 +33,9 @@ to hand off across turns, tools, and agents.
 
 ## Learn LoopX
 
-- **Developer Book** - the curated bilingual path from control-plane foundations to project onboarding and developer contributions. [中文版](https://huangruiteng.github.io/loopx/docs/book/) · [English](https://huangruiteng.github.io/loopx/docs/book/en/)
+- **Developer Book** - the curated bilingual path from control-plane foundations to project onboarding and developer contributions. [中文版](https://loopx-project.github.io/loopx/docs/book/) · [English](https://loopx-project.github.io/loopx/docs/book/en/)
 - **Getting started** - install, connect a project, and run your first governed loop. [Guide](docs/guides/getting-started.md)
-- **Docs** - the full reference and operations site. [LoopX Docs](https://huangruiteng.github.io/loopx/docs/)
+- **Docs** - the full reference and operations site. [LoopX Docs](https://loopx-project.github.io/loopx/docs/)
 
 ## Meet the Personal Agent Workspace
 
@@ -226,10 +228,10 @@ creator dogfooding, reproducible demos, and explicit evidence-strength labels.
 
 ### Exploratory Benchmark Studies
 
-- **[SWE-Marathon](https://huangruiteng.github.io/loopx/benchmarks/swe-marathon/):**
+- **[SWE-Marathon](https://loopx-project.github.io/loopx/benchmarks/swe-marathon/):**
   Five execution modes on 15 matched tasks compare self-verification, scores,
   and cost. More self-verification did not consistently yield higher scores.
-- **[DeepSWE behavior analysis](https://huangruiteng.github.io/loopx/benchmarks/deepswe/behavior-discovery/)** (Chinese):
+- **[DeepSWE behavior analysis](https://loopx-project.github.io/loopx/benchmarks/deepswe/behavior-discovery/)** (Chinese):
   Selected cases examine how domain hints relate to requirement retention and
   verification choices, offering mechanism hypotheses for further testing.
 
@@ -238,7 +240,7 @@ post-hoc analysis. Neither establishes a general performance gain.
 
 More inspectable surfaces:
 
-- the [public homepage](https://huangruiteng.github.io/loopx/) for the product
+- the [public homepage](https://loopx-project.github.io/loopx/) for the product
   narrative, quick start, and long-running evidence;
 - the [complete Showcase catalog](docs/showcases/README.md) and its
   [bilingual hosted index](docs/showcases/index.html);
@@ -529,8 +531,8 @@ quota, and handoff explicit.
 ### App and Projection Paths
 
 - Local read-first UI: [dashboard guide](apps/presentation/dashboard/README.md)
-- Public product overview: [public homepage](https://huangruiteng.github.io/loopx/)
-- Documentation portal: [hosted docs](https://huangruiteng.github.io/loopx/docs/)
+- Public product overview: [public homepage](https://loopx-project.github.io/loopx/)
+- Documentation portal: [hosted docs](https://loopx-project.github.io/loopx/docs/)
 - Feishu/Lark projection: [Lark Kanban adapter](docs/integrations/lark-kanban-control-plane-adapter.md)
 - Generic host integration: [integration guide](docs/integration.md)
 - Custom multi-agent runner:
@@ -608,7 +610,7 @@ shared foundation beneath these programs.
 ## Advanced Documentation
 
 Start with the path that matches your current task. Use the hosted
-[documentation portal](https://huangruiteng.github.io/loopx/docs/) for the
+[documentation portal](https://loopx-project.github.io/loopx/docs/) for the
 published docs site; the [documentation index](docs/README.md) remains the
 complete source map. This list stays selective; each category index owns its
 deeper documents and versioned protocols.
@@ -761,7 +763,7 @@ coordination, and an explicitly staged architecture and research incubator.
 ## Star History
 
 <p align="center">
-  <a href="https://github.com/huangruiteng/loopx/stargazers"><img src="https://huangruiteng.github.io/loopx/site-assets/star-history.svg" alt="LoopX GitHub star history from verified snapshots" width="800"></a><br>
+  <a href="https://github.com/huangruiteng/loopx/stargazers"><img src="https://loopx-project.github.io/loopx/site-assets/star-history.svg" alt="LoopX GitHub star history from verified snapshots" width="800"></a><br>
   <sub>Generated every six hours from GitHub's official stargazer timestamps using a repository-authorized workflow. A snapshot is published only when the fetched rows match GitHub's current star count; GitHub's image cache may delay refreshes.</sub>
 </p>
 
